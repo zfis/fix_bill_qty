@@ -23,6 +23,6 @@
 	"auto_install": False,
 	"installable": True,
 	"application": False,
-    'images': ['static/description/logo.png'],
+    'images': ['static/description/logo.PNG'],
 	'license': 'LGPL-3',
 }
